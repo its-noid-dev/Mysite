@@ -1,6 +1,29 @@
+#  My Personal Website
 
-# My site
+A small personal website built with HTML, CSS, and JavaScript.
 
-This is my site!
-Hope you like it .
-Made with <3 by noid dev
+##  About
+
+This is my personal website where I share a bit about myself, my interests, and my projects. It was built from scratch to learn more about web development and create something that reflects my style.
+
+##  Features
+
+- Responsive design
+- Clean and simple UI
+- Personal introduction
+- Fast, static website hosted with GitHub Pages
+
+
+## 🌐 Live Demo
+
+Visit the website here:
+
+https://its-noid-dev.github.io/Mysite/
+
+
+
+##  Why I Made This
+
+I made this for people to get to know me!
+
+
